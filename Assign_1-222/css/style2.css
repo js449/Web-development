@@ -1,0 +1,148 @@
+#container{
+    padding-left:50px;
+    padding-right: 50px;
+    width: auto;
+    
+    font-size: 12px;
+    font-family:"Lucida console", sans-serif;
+    text-align: left;
+    line-height: 1.6;
+}
+
+img
+{
+ margin: 0px 20px;
+border-radius: 8px;
+
+}
+
+#contentpage a{
+    text-decoration: none;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(185, 107, 182, 0.71); 
+    line-height: 1.8;
+}
+
+
+h1{
+    font-size:80px;
+    padding: inherit;
+    text-align:center;
+    color:rgba(154, 34, 34, 0.69);  
+ 
+    font-family:"Courier new", "sans-sarif";
+}
+h2{
+    font-size: 30px;
+    color: rgb(109, 19, 175);
+    text-align: center;
+    line-height: 5px;
+    font-family:"Courier new", "sans-sarif";
+
+}
+h3{
+     font-size: 25px;
+    color:hsla(219, 66%, 35%, 0.61);
+        line-height: 5px;
+    font-family:"Courier new", "sans-sarif";
+    text-align: center;
+    
+}
+
+h4{
+     font-size: 20px;
+    color:rgba(24, 45, 56, 0.91);
+    text-align: left;
+    line-height: 5px;
+    font-family:"Courier new", "sans-sarif";
+}
+
+
+h7{
+    
+    font-size: 20px;
+    color:rgb(75, 32, 142);
+    text-align: justify;
+    line-height: "Courier new", "sans-sarif";
+    line-height: 5px;
+}
+#conclusion{
+    
+    font-size: 15px;
+    font-family: "bell mt", sans-serif;
+}
+
+#historyy{
+    text-align: center;
+ 
+}
+
+
+#lastpic{
+    text-align: center;
+}
+
+
+
+
+table{
+    
+    border-collapse: collapse;
+    font-family: 'Quicksand';
+    
+    
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.content-table {
+  border-collapse: separate;
+  margin: 25px 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.5em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+    text-align: center;
+}
+
+.content-table thead tr {
+  background-color: rgba(152, 82, 165, 0.57);
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
+.content-table
+{
+    text-align: center;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #d9afaf;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.content-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}

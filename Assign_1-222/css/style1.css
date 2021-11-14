@@ -1,0 +1,102 @@
+h1,h2,h3,h4{
+    font-family:"Candara";
+}
+
+h1{
+    font-size:60px;
+    text-align:center;
+    color:rgb(93, 85, 121); 
+}
+
+h2{
+    
+    font-size: 30px;
+    color: #bc560f;
+    text-align: justify;
+    line-height: 5px;
+}
+
+h3{
+    
+    font-size: 20px;
+    color:#9b8421;
+    text-align: justify;
+        line-height: 5px;
+}
+
+h4{
+    
+    font-size: 17px;
+    color:rgba(142, 108, 60, 0.71);
+    text-align: justify;
+    line-height: 5px;
+}
+
+h7{
+    
+    font-size: 17px;
+    color:rgb(245, 144, 0);
+    text-align: justify;
+    line-height: 5px;
+}
+#conclusion{
+    
+    font-size: 17px;
+    font-family:Constantia;
+}
+img
+{
+    margin: 0px 10px;
+    border-radius: 8px;
+}
+
+
+#contentpage a {
+    
+    text-decoration: none;
+}
+
+
+#lastpic{
+    text-align: center;
+}
+
+
+
+.content-table thead tr {
+  background-color: rgba(85, 60, 114, 0.97);
+  text-align: center;
+  font-weight: bold;
+    color: white;
+}
+
+.content-table th,
+.content-table td {
+  padding: 5px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+#container{
+    background-color: rgba(255, 255, 255, 0.75);
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    font-size: 15px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+
+    
+    
+
+
+
