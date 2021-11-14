@@ -1,0 +1,52 @@
+/* css for all the elemnts displaying on the browser */
+.App {
+  text-align:justify;
+}
+
+.add-project .card-body{
+  display: none;
+}
+
+.list-container {
+  background-color: #7c3bb1;
+  color: white;
+  min-height: 100vh;
+  display:flex;
+  justify-content: space-around;
+  font-size: calc(10px + 1vmin); 
+  font-family:cursive;
+}
+
+.mr-3 {
+justify-content: left;
+}
+
+.dates{
+  justify-content: right;
+}
+
+.button{
+  font-size: medium;
+  background-color: black;
+  color: white;
+  font-family: cursive;
+}
+
+.heading{
+  color:yellowgreen;
+  justify-content: center;
+  font-size: larger;
+}
+
+.App-link {
+  color: #1f23e6;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
